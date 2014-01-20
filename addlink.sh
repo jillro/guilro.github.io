@@ -11,5 +11,3 @@ sed "s/\
             <li><a href=\"$1\">$2<\/a><\/li>\n\
         <\/ul>/" links.html >links.html.tmp
 mv links.html.tmp links.html
-git add links.html
-git commit -m "add link $1 $2" links.html
