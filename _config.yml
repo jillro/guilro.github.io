@@ -1,4 +1,6 @@
 name: Guillaume Royer
+description: Blog about web development.
+url: http://guilro.github.io
 markdown: redcarpet
 pygments: true
 timezone: Europe/Paris
