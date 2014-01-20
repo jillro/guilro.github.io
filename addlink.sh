@@ -6,9 +6,15 @@ then
 	exit;
 fi
 
+href=`echo $1 | sed -e 's/[\\/&]/\\\\&/g'`
+title=`echo $2 | sed -e 's/[\\/&]/\\\\&/g'`
+
+echo $href
+echo $title
+
 sed "s/\
         <\/ul>/\
-            <li><a href=\"$1\">$2<\/a><\/li>\n\
+            <li><a href=\"$href\">$title<\/a><\/li>\n\
         <\/ul>/" links.html >links.html.tmp
 mv links.html.tmp links.html
 git add links.html
