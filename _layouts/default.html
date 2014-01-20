@@ -3,42 +3,48 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+	<title>{{ page.title }} - {{ site.name}}</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
-
-        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main.css">
-
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
+        <div class="container">
+            <div class="row" id="header">
+                <div class="col-md-6">
+                    <h1 class="title">{{ site.name }}</h1>
+                </div>
+                <div class="col-md-6" id="navigation">
+                    <a href="/">Home</a>
+		    <a href="/links.html">Links</a>
+                </div>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
+
+            <div class="row">
+                <div class="col-md-12" id="content">
+                     {{ content }}
+                </div>
             </div>
-          </div>
+
+            <div class="row" id="footer">
+                <div class="col-md-6 contact">
+                    <p>
+                        Guillaume Royer<br />
+                        I am your friend.<br />
+                        perso@guilro.com
+                    </p>
+                </div>
+                <div class="col-md-6 contact">
+                    <p>
+                        <a href="https://github.com/guilro">github.com/guilro</a><br />
+                        <a href="https://twitter.com/">twitter.com/</a><br />
+                    </p>
+                </div>
+            </div>
         </div>
-
     </body>
 </html>
