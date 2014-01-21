@@ -33,13 +33,17 @@
     text-align: right;
 }
 
-p img {
+#content p img {
     float:left;
 }
 
-p {
+#content p {
     text-align: justify;
     text-indent:20px;
+}
+
+#content li {
+    text-align: justify;
 }
 
 #content #comments #sorry {
