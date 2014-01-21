@@ -26,7 +26,6 @@
 #content {
     padding-top: 50px;
     padding-bottom: 50px;
-    text-align: justify;
 }
 
 #content #comments {
@@ -36,6 +35,11 @@
 
 p img {
     float:left;
+}
+
+p {
+    text-align: justify;
+    text-indent:20px;
 }
 
 #content #comments #sorry {
