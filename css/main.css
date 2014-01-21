@@ -29,6 +29,14 @@
     text-align: justify;
 }
 
+#content #comments {
+    margin-top: 30px;
+    text-align: right;
+}
+
+#content #comments #sorry {
+}
+
 
 #footer:before, #header:after {
     content:"---";
