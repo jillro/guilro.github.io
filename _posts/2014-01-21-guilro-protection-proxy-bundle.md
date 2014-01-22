@@ -4,7 +4,7 @@ title: 'Authorization at the entity level with GuilroProtectionProxyBundle'
 category: symfony
 ---
 
-Last November, I went to Symfony Hack Day in Berlin. I did not talk with as many developers as I wanted, but it was the occasion for me to make [my first contribution to Symfony](https://github.com/symfony/symfony/issues/9433). I also asked a guy how I could get feedback on a bundle I had written, and he told me to put it on a blog. I spent last weeks playing with other tools than Symfony, but for some reason, I take the time to make this post.
+Last November, I went to Symfony Hack Day in Berlin. I did not talk with as many developers as I wanted, but it was the occasion for me to make [my first contribution to Symfony](https://github.com/symfony/symfony/issues/9433). I also asked a guy how I could get feedback on a bundle I had written, and he told me to put it on a blog. I spent last weeks playing with other tools than Symfony, but for some reason, I now take the time to make this post.
 
 I really like Symfony Security Component. [Voters](http://kriswallsmith.net/post/15994931191/symfony2-security-voters) are really great to implement your authorization logic in an easy and clean way. There are of course several bundles out there which add security features to Symfony. You can easily secure controllers methods, or perform security checks in your templates.
 
