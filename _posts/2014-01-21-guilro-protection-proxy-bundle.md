@@ -96,3 +96,5 @@ $this->render(
 I took the time yesterday to add some tests, and support for new Symfony 2.4 expression language. I have to add more tests. This is the first bundle I wrote that *could* be useful to others, but this is really dirty code. I first read [The Proxy Pattern in PHP](http://ocramius.github.io/presentations/proxy-pattern-in-php/#/12), proudly found the code for proxy in Doctrine, and modified it to fit my needs. I am planning a rewrite using [Ocramius ProxyManager](https://github.com/Ocramius/ProxyManager/blob/master/src/ProxyManager/Factory/AccessInterceptorValueHolderFactory.php).
 
 You can check the code on [Github](https://github.com/Guilro/GuilroProtectionProxyBundle). I don't know if it can be useful for real, but it fitted my needs at some moment. There was probably a better way to do this.
+
+EDIT: I have now done the [rewrite with Ocramius ProxyManager](/symfony/2014/01/23/guilro-protection-proxy-bundle-2.html).
