@@ -64,4 +64,5 @@ $this->render(
 );
 ```
 
-Next step is adding a way to configure the ProxyManager to cache the proxy classes.
+
+Next step for me is adding a way to configure the ProxyManager to cache the proxy classes.
