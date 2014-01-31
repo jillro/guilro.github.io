@@ -55,3 +55,14 @@
 .contact {
     text-align:center;
 }
+
+pre code {
+    color: white;
+    background-color: black;
+    font-weight:bold;
+}
+
+pre {
+    color: white;
+    background-color: black;
+}
