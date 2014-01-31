@@ -138,4 +138,4 @@ But, if the database was on the same thread as the program (which in real life d
 
 #Conclusion
 
-In short, single-thread program or not free from trigerring race conditions. But they can only occur **with or between other threads of external programs**. The result of our program might be undetermined, because the input our program receive from those other programs is undetermined.
+In short, single-thread programs are not free from trigerring race conditions. But they can only occur **with or between other threads of external programs**. The result of our program might be undetermined, because the input our program receive from those other programs is undetermined.
