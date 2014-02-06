@@ -5,12 +5,9 @@ title: Links
 <div class="row">
     <div class="col-md-6 col-md-offset-3">
         <ul>
-            <li><a href="https://www.destroyallsoftware.com/talks/wat">Wat ?</a></li>
-            <li><a href="http://theunraveler.com/blog/2012/php-annotations-are-a-horrible-idea/">PHP Annotations Are a Horrible Idea</a></li>
-            <li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">Jekyll RSS Feeds</a></li>
-            <li><a href="http://stackoverflow.com/questions/19310788/why-does-calling-a-function-in-the-node-js-repl-with-work">Why does calling a function in the node.js REPL with )( work ?</a></li>
-            <li><a href="http://johnkary.net:8081/blog/useful-commands-for-efficient-symfony2-development/">Useful Commands For Efficient Symfony2 Development</a></li>
-            <li><a href="http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/">The Crunch Mode Antipattern</a></li>
-        </ul>
+            {% for link in site.data.links %}
+                <li><a href="{{ link.href }}">{{ link.title }}</a></li>
+            {% endfor %}
+         </ul>
     </div>
 </div>
