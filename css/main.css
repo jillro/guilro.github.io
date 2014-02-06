@@ -1,21 +1,13 @@
-#posts {
-    font-family: monospace;
-    padding-top:10px;
-    background-color:#EEE;
+#brand {
+    padding-bottom: 3px;
 }
 
-#posts ul {
-    list-style-type:none;
-    padding-left:0px;
-}
-
-#posts ul li:before {
-    white-space:pre;
-    content:"    - ";
+#brand .title {
+    margin-top: 15px;
 }
 
 #navigation {
-    padding-top: 30px;
+    padding-top: 10px;
     text-align:right;
 }
 
@@ -29,7 +21,7 @@
 }
 
 #content #comments {
-    margin-top: 30px;
+    padding-top: 30px;
     text-align: right;
 }
 
@@ -39,14 +31,20 @@
 
 #content p {
     text-align: justify;
+}
+
+.post p {
     text-indent:20px;
 }
 
 #content #comments #sorry {
 }
 
+#header {
+    border-bottom: 1px solid #CCC;
+}
 
-#footer:before, #header:after {
+#footer:before {
     content:"---";
     margin:auto;
     font-family:monospace;

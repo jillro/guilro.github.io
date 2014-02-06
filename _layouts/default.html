@@ -10,23 +10,32 @@
         <link rel="stylesheet" href="/css/syntax.css">
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main.css">
+	{%if page.url == '/index.html' %}<link rel="stylesheet" href="/css/index.css">{% endif %}
     </head>
     <body>
 
         <div class="container">
 
             <div class="row" id="header">
-                <div class="col-md-6">
+                <div class="col-md-6" id="brand">
                     <h3 class="title">{{ site.name }}</h3>
                 </div>
                 <div class="col-md-6" id="navigation">
-                    <a href="/">Home</a>
-                    <a href="/aboutme.html">About me</a>
-                    <a href="/links.html">Links</a>
+		    <ul class="nav nav-pills nav-justified">
+                        <li>
+                        <a href="/">Home</a>
+                        </li>
+                        <li>
+                        <a href="/aboutme.html">About me</a>
+                        </li>
+                        <li>
+                        <a href="/links.html">Links</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row" id="body">
                 <div class="col-md-10 col-md-offset-1" id="content">
                      {{ content }}
                 </div>

@@ -4,8 +4,7 @@ title: Blog Posts
 ---
 
 <div class="row">
-    <div class="col-md-6 col-md-offset-3" id="posts">
-        Blog Posts:
+    <div class="col-md-8 col-md-offset-2" id="postsList">
         <ul>
             {% for post in site.posts %}
                   <li><span>{{ post.date | date_to_string }}</span>: <a href="{{ post.url }}">{{ post.title }}</a></li>
