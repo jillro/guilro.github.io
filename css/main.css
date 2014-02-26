@@ -1,3 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+#page-container {
+    min-height: 100%;
+    margin-bottom: -90px;
+}
+
+#page-container:after {
+    content: "";
+    display: block;
+}
+
+#footer-container, #page-container:after {
+    height: 90px;
+}
+
 #brand {
     padding-bottom: 3px;
 }
@@ -41,21 +59,30 @@
     text-align: justify;
 }
 
-.post p {
-    text-indent:20px;
+#postsList {
+    font-size: large;
 }
 
-#content #comments #sorry {
+#postsList {
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: white;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+}
+
+.post p {
+    text-indent: 10px;
 }
 
 #header {
     border-bottom: 1px solid #CCC;
+    padding-bottom: 3px;
 }
 
-#footer:before {
-    content:"---";
-    margin:auto;
-    font-family:monospace;
+#footer {
+    padding-top: 10px;
+    border-top: 1px solid #CCC;
 }
 
 .contact {

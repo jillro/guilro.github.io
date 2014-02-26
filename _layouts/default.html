@@ -8,13 +8,12 @@
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main.css">
-	{%if page.url == '/index.html' %}<link rel="stylesheet" href="/css/index.css">{% endif %}
     </head>
     <body>
 
-        <div class="container">
+        <div class="container" id="page-container">
 
             <div class="row" id="header">
                 <div class="col-md-6" id="brand">
@@ -40,7 +39,8 @@
                      {{ content }}
                 </div>
             </div>
-
+        </div>
+        <div class="container" id="footer-container">
             <div class="row" id="footer">
                 <div class="col-md-3 contact">
                     <p>
@@ -68,6 +68,11 @@
                         <a href="http://stackoverflow.com/users/3046804/guillaume-royer">
                             <img src="/images/logostackoverflow.png" alt="Stackoverflow">Stackoverflow
                         </a>
+                    </p>
+                    <p class="text-right text-muted">
+                        <small>
+                            <em>pictures by bmaz</em>
+                        </small>
                     </p>
                 </div>
             </div>
