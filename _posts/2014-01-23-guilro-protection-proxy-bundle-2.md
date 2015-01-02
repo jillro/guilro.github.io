@@ -1,7 +1,12 @@
 ---
 layout: post
-title: 'GuilroProtectionProxyBundle with Ocramius ProxyManager'
+title: GuilroProtectionProxyBundle with Ocramius ProxyManager
 category: symfony
+comments:
+  - date: 2015-01-02T23:10:27.176Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+
 ---
 
 [GuilroProtectionProxyBundle](/symfony/2014/01/21/guilro-protection-proxy-bundle.html) generates proxy objects from your configuration. Those proxies handle access granting, so you can render them without having to do authorization in your views or in your controllers. It is not completely [AOP](http://en.wikipedia.org/wiki/Aspect-oriented_programming), but it is the same idea.
