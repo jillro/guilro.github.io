@@ -4,6 +4,9 @@ title: Can we have a race condition in a single thread program ?
 comments:
   - date: 2015-01-03T00:36:00.758Z
     author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour Ã\_ la Ligne."
+  - date: 2015-01-03T00:36:07.174Z
+    author: Guillaume Royer
     content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
 
 ---
