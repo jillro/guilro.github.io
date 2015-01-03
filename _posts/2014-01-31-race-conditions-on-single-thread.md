@@ -4,15 +4,16 @@ title: Can we have a race condition in a single thread program ?
 comments:
   - date: 2015-01-03T00:36:00.758Z
     author: Guillaume Royer
-    content: "Lorem ipsum. Chocolat. \n\n Retour Ã\_ la Ligne."
+    content: "Lorem ipsum. Chocolat. \n\n Retour Ãƒ\_ la Ligne."
   - date: 2015-01-03T00:36:07.174Z
     author: Guillaume Royer
-    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+    content: "Lorem ipsum. Chocolat. \n\n Retour Ã  la Ligne."
 
 ---
 
 *If you don't know what race condition is, you can get an excellent explanation (with picture and all the stuff) on [Wikipedia](http://en.wikipedia.org/wiki/Race_condition#Software).*
 
+Ã 
 I have seen recently many people making confusing statements about race conditions and threads. I had learned that race conditions could only occur between threads. But I saw code that looked like race conditions in event and asynchronous based languages, even if the program were single thread, like in Node.js, in GTK+, etc.
 
 I tried to understand that and answer myself to my question (which I also did on [StackOverflow](http://stackoverflow.com/questions/21463377/can-we-have-race-conditions-in-a-single-thread-program)). **Can we have a race condition in a single thread program ?** I could not find any definitive answer to this question on the internet, so here is what I am think about this. I may be wrong, so please comment.
