@@ -59,6 +59,9 @@ comments:
   - date: 2015-01-04T15:04:59.563Z
     author: Guillaume Royer
     content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T15:21:02.090Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
 
 ---
 
