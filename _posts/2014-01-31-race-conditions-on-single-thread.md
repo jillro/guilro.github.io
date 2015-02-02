@@ -8,6 +8,12 @@ comments:
       email: "perso@guilro.com"
       url: "http://guilro.github.com"
     content: This is a test.
+  - date: 2015-02-02T22:41:09.799Z
+    author:
+      name: John Doe
+      email: "me@example.com"
+      url: "http://example.com"
+    content: This is another test.
 
 ---
 
