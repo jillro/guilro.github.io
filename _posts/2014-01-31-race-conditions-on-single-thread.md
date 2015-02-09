@@ -14,6 +14,12 @@ comments:
       email: "me@example.com"
       url: "http://example.com"
     content: This is another test.
+  - date: 2015-02-09T18:10:18.501Z
+    author:
+      name: guilro
+      url: "https://github.com/guilro"
+      authenticated: true
+    content: This is a test
 
 ---
 
