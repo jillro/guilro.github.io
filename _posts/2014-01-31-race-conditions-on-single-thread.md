@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postCommentit
 title: Can we have a race condition in a single thread program ?
 ---
 
