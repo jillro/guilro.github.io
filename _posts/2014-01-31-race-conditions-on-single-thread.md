@@ -28,6 +28,7 @@ comments:
     - {author: {type: full, displayName: guilro, url: 'https://github.com/guilro', picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'}, content: qsdqsd, date: 2015-09-27T21:47:30.970Z}
     - {author: {type: full, displayName: guilro, url: 'https://github.com/guilro', picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'}, content: qdqs, date: 2015-09-27T21:48:16.000Z}
     - {author: {type: full, displayName: guilro, url: 'https://github.com/guilro', picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'}, content: qsdqsd, date: 2015-09-27T22:00:35.262Z}
+    - {author: {type: full, displayName: guilro, url: 'https://github.com/guilro', picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'}, content: qsdsqdsq, date: 2015-09-27T22:02:40.815Z}
 
 ---
 
