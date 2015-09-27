@@ -75,6 +75,13 @@ comments:
       url: 'https://github.com/guilro'
       picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'
     content: qsdsqd
+  - date: 2015-09-27T14:14:55.477Z
+    author:
+      type: full
+      displayName: guilro
+      url: 'https://github.com/guilro'
+      picture: 'https://www.gravatar.com/avatar/a0007a5a6e287b9e970c9466a7c80801'
+    content: sqdsqdsqsqdsq
 
 ---
 
