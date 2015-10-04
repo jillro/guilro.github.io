@@ -30,6 +30,8 @@ process of storing comments in website repository through commits and pull
 requests. Of course, I added several features. With Comm(ent|it), we have the
 possibility to send comments directly to master or gh-pages branch. And there
 are smarter ways to store comment than directly as the end of each post file.
+It could be better and more beautiful (I am not a web developper), but I think
+it does the job.
 
 When we talk about static website generator, some people completely oppose them
 to dynamic systems such as Wordpress or any PHP CMS (which often handle comments

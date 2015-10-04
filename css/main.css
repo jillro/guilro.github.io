@@ -73,6 +73,10 @@ html, body {
     text-indent: 10px;
 }
 
+.post {
+    margin-bottom: 50px;
+}
+
 #header {
     border-bottom: 1px solid #CCC;
     padding-bottom: 3px;
