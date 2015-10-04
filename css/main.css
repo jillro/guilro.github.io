@@ -24,7 +24,6 @@ html, body {
     margin-top: 15px;
     color: black;
     text-decoration: none;
-    
 }
 
 #brand a:hover {
@@ -48,7 +47,6 @@ html, body {
 
 #content #comments {
     padding-top: 30px;
-    text-align: right;
 }
 
 #content p img {
