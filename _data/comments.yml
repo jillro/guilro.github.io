@@ -13,3 +13,13 @@
       picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
     content: And this is a second one.
     date: 2015-10-04T22:36:07.986Z
+  - author:
+      type: twitter
+      displayName: guilro_
+      url: 'https://twitter.com/guilro_'
+      picture: 'https://pbs.twimg.com/profile_images/439412146514837504/xUwZvBH4_bigger.jpeg'
+    content: |-
+      You can also use your twitter account.
+
+      And make comments on several lines.
+    date: 2015-10-04T22:44:45.222Z
