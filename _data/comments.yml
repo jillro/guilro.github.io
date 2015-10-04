@@ -23,3 +23,10 @@
 
       And make comments on several lines.
     date: 2015-10-04T22:44:45.222Z
+  - author:
+      type: github
+      displayName: guilro
+      url: 'https://github.com/guilro'
+      picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
+    content: 'You don&apos;t see it, but this comment was pre-moderated.'
+    date: 2015-10-04T22:59:09.996Z
