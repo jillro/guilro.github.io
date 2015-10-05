@@ -175,3 +175,10 @@
       picture: 'https://avatars.githubusercontent.com/u/914329?v=3&s=73'
     content: Super cool
     date: 2015-10-05T15:16:04.390Z
+  - author:
+      type: github
+      displayName: youngshook
+      url: 'https://github.com/youngshook'
+      picture: 'https://avatars.githubusercontent.com/u/1398182?v=3&s=73'
+    content: WoW
+    date: 2015-10-05T15:22:21.218Z
