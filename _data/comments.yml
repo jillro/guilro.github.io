@@ -112,3 +112,10 @@
       picture: 'https://avatars.githubusercontent.com/u/2698003?v=3&s=73'
     content: 'nice job!'
     date: 2015-10-05T13:54:36.979Z
+  - author:
+      type: github
+      displayName: zryfish
+      url: 'https://github.com/zryfish'
+      picture: 'https://avatars.githubusercontent.com/u/3326354?v=3&s=73'
+    content: 'Awesome!'
+    date: 2015-10-05T14:01:05.891Z
