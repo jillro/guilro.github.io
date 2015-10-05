@@ -48,3 +48,8 @@ remains that Jekyll cannot handle any POST request, and cannot use sessions or
 even cookies. But with Jekyll we can imagine a system where serving the content
 and updating it are the role of two decoupled services. And both could be user
 friendly. This can have advantages in term of security and portability.
+
+So if you are interested, do not hesitate to
+[give it a try](https://commentit.io) ! You do not need to give up Disqus or any
+third party system you are currently using. You can start using Comm(ent|it) for
+a try on one or a few articles.
