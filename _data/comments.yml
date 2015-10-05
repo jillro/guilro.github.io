@@ -196,3 +196,10 @@
       picture: 'https://avatars.githubusercontent.com/u/4255686?v=3&s=73'
     content: great
     date: 2015-10-05T16:03:58.380Z
+  - author:
+      type: github
+      displayName: guoylyy
+      url: 'https://github.com/guoylyy'
+      picture: 'https://avatars.githubusercontent.com/u/3021588?v=3&s=73'
+    content: 'wow&#x3002;&#x3002;good'
+    date: 2015-10-05T17:11:42.051Z
