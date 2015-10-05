@@ -217,3 +217,10 @@
       picture: 'https://avatars.githubusercontent.com/u/121173?v=3&s=73'
     content: this is just awesome.
     date: 2015-10-05T19:30:42.448Z
+  - author:
+      type: github
+      displayName: huiwang
+      url: 'https://github.com/huiwang'
+      picture: 'https://avatars.githubusercontent.com/u/720508?v=3&s=73'
+    content: Another awesome comment
+    date: 2015-10-05T20:38:16.744Z
