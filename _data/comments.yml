@@ -47,3 +47,10 @@
       picture: 'https://avatars.githubusercontent.com/u/10119507?v=3&s=73'
     content: 'Congratulation for your work ! '
     date: 2015-10-05T08:22:52.652Z
+  - author:
+      type: github
+      displayName: bmaz
+      url: 'https://github.com/bmaz'
+      picture: 'https://avatars.githubusercontent.com/u/5666046?v=3&s=73'
+    content: 'Great job !'
+    date: 2015-10-05T08:26:28.351Z
