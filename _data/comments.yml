@@ -126,3 +126,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3994172?v=3&s=73'
     content: '666'
     date: 2015-10-05T14:19:44.456Z
+  - author:
+      type: github
+      displayName: MrBackKom
+      url: 'https://github.com/MrBackKom'
+      picture: 'https://avatars.githubusercontent.com/u/1673204?v=3&s=73'
+    content: just test
+    date: 2015-10-05T14:26:16.323Z
