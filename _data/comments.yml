@@ -210,3 +210,10 @@
       picture: 'https://avatars.githubusercontent.com/u/4775156?v=3&s=73'
     content: wow
     date: 2015-10-05T18:27:04.745Z
+  - author:
+      type: github
+      displayName: metaphox
+      url: 'https://github.com/metaphox'
+      picture: 'https://avatars.githubusercontent.com/u/121173?v=3&s=73'
+    content: this is just awesome.
+    date: 2015-10-05T19:30:42.448Z
