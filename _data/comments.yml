@@ -203,3 +203,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3021588?v=3&s=73'
     content: 'wow&#x3002;&#x3002;good'
     date: 2015-10-05T17:11:42.051Z
+  - author:
+      type: github
+      displayName: xuelinf
+      url: 'https://github.com/xuelinf'
+      picture: 'https://avatars.githubusercontent.com/u/4775156?v=3&s=73'
+    content: wow
+    date: 2015-10-05T18:27:04.745Z
