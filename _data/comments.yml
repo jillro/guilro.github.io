@@ -68,3 +68,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1714565?v=3&s=73'
     content: 'Good to know, and nj!'
     date: 2015-10-05T13:02:27.906Z
+  - author:
+      type: github
+      displayName: nerdDan
+      url: 'https://github.com/nerdDan'
+      picture: 'https://avatars.githubusercontent.com/u/3108734?v=3&s=73'
+    content: 'love it!'
+    date: 2015-10-05T13:15:59.436Z
