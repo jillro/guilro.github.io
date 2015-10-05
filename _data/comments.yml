@@ -182,3 +182,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1398182?v=3&s=73'
     content: WoW
     date: 2015-10-05T15:22:21.218Z
+  - author:
+      type: github
+      displayName: fjarcticfox
+      url: 'https://github.com/fjarcticfox'
+      picture: 'https://avatars.githubusercontent.com/u/953581?v=3&s=73'
+    content: test
+    date: 2015-10-05T16:02:55.303Z
