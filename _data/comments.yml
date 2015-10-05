@@ -75,3 +75,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3108734?v=3&s=73'
     content: 'love it!'
     date: 2015-10-05T13:15:59.436Z
+  - author:
+      type: github
+      displayName: butterandfly
+      url: 'https://github.com/butterandfly'
+      picture: 'https://avatars.githubusercontent.com/u/1502478?v=3&s=73'
+    content: 'Great try!'
+    date: 2015-10-05T13:22:33.995Z
