@@ -119,3 +119,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3326354?v=3&s=73'
     content: 'Awesome!'
     date: 2015-10-05T14:01:05.891Z
+  - author:
+      type: github
+      displayName: zhongbaitu
+      url: 'https://github.com/zhongbaitu'
+      picture: 'https://avatars.githubusercontent.com/u/3994172?v=3&s=73'
+    content: '666'
+    date: 2015-10-05T14:19:44.456Z
