@@ -11,8 +11,7 @@ Between the first years of secondary school and my master degree, I also became 
 
 I never earned money from my hobby (my real occupation is to study economics), but I contributed to several projects, and helped non-profit organizations.
 
-I am currently doing a master degree in economics, at [ENS Cachan] and [Panthéon-Sorbonne University] in France. I am mostly interested in international economics, game theory and experimental economics. I spent year 2013-2014 at [Humboldt University] in Berlin, where among other things, I had the opportunity to work on fields mixing economics and computer science.
-
+I got in 2015 a master degree in economics, from [ENS Cachan] and [Panthéon-Sorbonne University] in France. I worked on international economics, game theory and experimental economics. I spent year 2013-2014 at [Humboldt University] in Berlin, where among other things, I had the opportunity to work on fields mixing economics and computer science. This year (2015-2016), I follow the [EPOG] program in Paris, where I study innovation and collaborative work in the open source field.
 
 Oh, and Free Software means something to me.
 
@@ -24,3 +23,4 @@ Oh, and Free Software means something to me.
 [ENS Cachan]: http://www.ens-cachan.fr/
 [Panthéon-Sorbonne University]: http://www.univ-paris1.fr/
 [Humboldt University]: http://www.wiwi.hu-berlin.de/
+[EPOG]: http://www.cepn-paris13.fr/epog/
