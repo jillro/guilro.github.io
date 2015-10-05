@@ -54,3 +54,10 @@
       picture: 'https://avatars.githubusercontent.com/u/5666046?v=3&s=73'
     content: 'Great job !'
     date: 2015-10-05T08:26:28.351Z
+  - author:
+      type: github
+      displayName: ruanyf
+      url: 'https://github.com/ruanyf'
+      picture: 'https://avatars.githubusercontent.com/u/905434?v=3&s=73'
+    content: 'Great Idea! Cannot wait to try it.'
+    date: 2015-10-05T12:43:35.137Z
