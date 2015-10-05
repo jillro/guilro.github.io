@@ -14,7 +14,7 @@ layout: default
   /** CONFIGURATION VARIABLES **/
   var commentitUsername = 'guilro';
   var commentitRepo = 'guilro/guilro.github.io';
-  var commentitId = '{{ page.id }}';
+  var commentitPath = '_layouts/post.html';
 
   /** DON'T EDIT FOLLOWING LINES **/
   (function() {
@@ -32,7 +32,7 @@ layout: default
 {% for c in sorted_comments %}
   <div class="media">
     <div class="media-left">
-      <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}">
+      <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}" height="73" width="73">
     </div>
     <div class="media-body">
       <p class="text-muted">
