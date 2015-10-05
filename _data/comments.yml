@@ -30,3 +30,13 @@
       picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
     content: 'You don&apos;t see it, but this comment was pre-moderated.'
     date: 2015-10-04T22:59:09.996Z
+  - author:
+      type: twitter
+      displayName: loige
+      url: 'https://twitter.com/loige'
+      picture: 'https://pbs.twimg.com/profile_images/591629212123037696/dCisOhdz_bigger.jpg'
+    content: |-
+      This is cool. Seems a kind of lightweight disqus!
+
+      Congratulations for the great work
+    date: 2015-10-05T06:31:19.904Z
