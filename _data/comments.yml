@@ -140,3 +140,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1210699?v=3&s=73'
     content: test rockyuse
     date: 2015-10-05T14:33:56.962Z
+  - author:
+      type: github
+      displayName: cunjieliu
+      url: 'https://github.com/cunjieliu'
+      picture: 'https://avatars.githubusercontent.com/u/6039139?v=3&s=73'
+    content: 'wow&#xFF01;&#xFF01;&#xFF01;'
+    date: 2015-10-05T14:34:27.026Z
