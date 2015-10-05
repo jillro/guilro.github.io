@@ -161,3 +161,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3883228?v=3&s=73'
     content: 'Wow!'
     date: 2015-10-05T14:49:06.929Z
+  - author:
+      type: twitter
+      displayName: huskytommy
+      url: 'https://twitter.com/huskytommy'
+      picture: 'https://pbs.twimg.com/profile_images/574390248064466944/INNdJ222_bigger.jpeg'
+    content: nice going
+    date: 2015-10-05T15:08:59.930Z
