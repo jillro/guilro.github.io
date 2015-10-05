@@ -133,3 +133,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1673204?v=3&s=73'
     content: just test
     date: 2015-10-05T14:26:16.323Z
+  - author:
+      type: full
+      displayName: rockyuse
+      url: 'https://github.com/rockyuse'
+      picture: 'https://avatars.githubusercontent.com/u/1210699?v=3&s=73'
+    content: test rockyuse
+    date: 2015-10-05T14:33:56.962Z
