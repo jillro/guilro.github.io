@@ -154,3 +154,10 @@
       picture: 'https://avatars.githubusercontent.com/u/9859291?v=3&s=73'
     content: haha
     date: 2015-10-05T14:36:27.561Z
+  - author:
+      type: github
+      displayName: blanboom
+      url: 'https://github.com/blanboom'
+      picture: 'https://avatars.githubusercontent.com/u/3883228?v=3&s=73'
+    content: 'Wow!'
+    date: 2015-10-05T14:49:06.929Z
