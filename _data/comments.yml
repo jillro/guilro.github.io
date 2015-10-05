@@ -147,3 +147,10 @@
       picture: 'https://avatars.githubusercontent.com/u/6039139?v=3&s=73'
     content: 'wow&#xFF01;&#xFF01;&#xFF01;'
     date: 2015-10-05T14:34:27.026Z
+  - author:
+      type: github
+      displayName: wutongr
+      url: 'https://github.com/wutongr'
+      picture: 'https://avatars.githubusercontent.com/u/9859291?v=3&s=73'
+    content: haha
+    date: 2015-10-05T14:36:27.561Z
