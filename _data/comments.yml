@@ -224,3 +224,16 @@
       picture: 'https://avatars.githubusercontent.com/u/720508?v=3&s=73'
     content: Another awesome comment
     date: 2015-10-05T20:38:16.744Z
+  - author:
+      type: github
+      displayName: faddat
+      url: 'https://github.com/faddat'
+      picture: 'https://avatars.githubusercontent.com/u/7142025?v=3&s=73'
+    content: >-
+      hmmmmmmmm.  What is it?  Have to search for my comment in a repo in order
+      to find out!
+
+
+
+      Good work, though!
+    date: 2015-10-05T22:42:45.492Z
