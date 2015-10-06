@@ -249,6 +249,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Good work, though!
     date: 2015-10-05T22:42:45.492Z
   - author:
@@ -272,3 +288,10 @@
       picture: 'https://avatars.githubusercontent.com/u/654356?v=3&s=73'
     content: hi
     date: 2015-10-06T00:26:23.249Z
+  - author:
+      type: full
+      displayName: joway
+      url: 'https://github.com/joway'
+      picture: 'https://avatars.githubusercontent.com/u/8353464?v=3&s=73'
+    content: 'cool!!!'
+    date: 2015-10-06T00:43:31.077Z
