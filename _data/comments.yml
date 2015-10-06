@@ -376,3 +376,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1731910?v=3&s=73'
     content: 'Nice work. Is the source code on GitHub? (I couldn&apos;t find it, but perhaps I&apos;m just not looking in the right places.)'
     date: 2015-10-06T12:30:04.640Z
+  - author:
+      type: full
+      displayName: guilro
+      url: 'https://github.com/guilro'
+      picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
+    content: '@sathomas not yet, but it won&apos;t be long before I opensource it =)'
+    date: 2015-10-06T12:45:34.635Z
