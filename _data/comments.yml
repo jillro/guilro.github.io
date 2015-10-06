@@ -390,3 +390,11 @@
       picture: 'https://avatars.githubusercontent.com/u/45252?v=3&s=73'
     content: Just a test comment.
     date: 2015-10-06T14:30:27.628Z
+  - author:
+      type: github
+      displayName: mrhaw
+      url: 'https://github.com/mrhaw'
+      picture: 'https://avatars.githubusercontent.com/u/346269?v=3&s=73'
+    content: |
+      Awesome
+    date: 2015-10-06T15:20:37.001Z
