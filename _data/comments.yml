@@ -362,3 +362,10 @@
       picture: 'https://avatars.githubusercontent.com/u/243344?v=3&s=73'
     content: Kraaa.
     date: 2015-10-06T08:07:43.891Z
+  - author:
+      type: twitter
+      displayName: hookii_it
+      url: 'https://twitter.com/hookii_it'
+      picture: 'https://pbs.twimg.com/profile_images/595537092131876864/K6UzMzqc_bigger.png'
+    content: 'Nice job! '
+    date: 2015-10-06T10:14:55.848Z
