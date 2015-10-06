@@ -241,6 +241,14 @@
 
 
 
+
+
+
+
+
+
+
+
       Good work, though!
     date: 2015-10-05T22:42:45.492Z
   - author:
@@ -257,3 +265,10 @@
       picture: 'https://avatars.githubusercontent.com/u/7498009?v=3&s=73'
     content: 'hello world!'
     date: 2015-10-06T00:11:36.286Z
+  - author:
+      type: github
+      displayName: aysark
+      url: 'https://github.com/aysark'
+      picture: 'https://avatars.githubusercontent.com/u/654356?v=3&s=73'
+    content: hi
+    date: 2015-10-06T00:26:23.249Z
