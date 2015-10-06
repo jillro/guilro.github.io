@@ -369,3 +369,10 @@
       picture: 'https://pbs.twimg.com/profile_images/595537092131876864/K6UzMzqc_bigger.png'
     content: 'Nice job! '
     date: 2015-10-06T10:14:55.848Z
+  - author:
+      type: github
+      displayName: sathomas
+      url: 'https://github.com/sathomas'
+      picture: 'https://avatars.githubusercontent.com/u/1731910?v=3&s=73'
+    content: 'Nice work. Is the source code on GitHub? (I couldn&apos;t find it, but perhaps I&apos;m just not looking in the right places.)'
+    date: 2015-10-06T12:30:04.640Z
