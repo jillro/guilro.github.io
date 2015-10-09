@@ -426,3 +426,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1227139?v=3&s=73'
     content: 'Just another test!'
     date: 2015-10-09T08:53:41.151Z
+  - author:
+      type: full
+      displayName: yfaming
+      url: 'https://github.com/yfaming'
+      picture: 'https://avatars.githubusercontent.com/u/1272675?v=3&s=73'
+    content: 'Excited!'
+    date: 2015-10-09T09:10:25.577Z
