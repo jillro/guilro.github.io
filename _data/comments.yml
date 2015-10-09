@@ -419,3 +419,10 @@
       picture: 'https://avatars.githubusercontent.com/u/9418312?v=3&s=73'
     content: cool
     date: 2015-10-09T08:42:00.409Z
+  - author:
+      type: github
+      displayName: kxxoling
+      url: 'https://github.com/kxxoling'
+      picture: 'https://avatars.githubusercontent.com/u/1227139?v=3&s=73'
+    content: 'Just another test!'
+    date: 2015-10-09T08:53:41.151Z
