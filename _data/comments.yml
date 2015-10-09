@@ -433,3 +433,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1272675?v=3&s=73'
     content: 'Excited!'
     date: 2015-10-09T09:10:25.577Z
+  - author:
+      type: twitter
+      displayName: omsobliga
+      url: 'https://twitter.com/omsobliga'
+      picture: 'https://pbs.twimg.com/profile_images/496295050578391040/DuK-8QgJ_bigger.jpeg'
+    content: dd
+    date: 2015-10-09T09:17:01.760Z
