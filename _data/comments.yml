@@ -412,3 +412,10 @@
       picture: 'https://avatars.githubusercontent.com/u/11938870?v=3&s=73'
     content: Nice~
     date: 2015-10-08T16:25:54.214Z
+  - author:
+      type: github
+      displayName: whiler
+      url: 'https://github.com/whiler'
+      picture: 'https://avatars.githubusercontent.com/u/9418312?v=3&s=73'
+    content: cool
+    date: 2015-10-09T08:42:00.409Z
