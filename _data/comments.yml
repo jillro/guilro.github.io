@@ -447,3 +447,10 @@
       picture: 'https://avatars.githubusercontent.com/u/285369?v=3&s=73'
     content: '&#x662F;&#x5426;&#x652F;&#x6301;&#x5206;&#x9875;&#x5462;&#xFF1F;'
     date: 2015-10-13T03:11:10.562Z
+  - author:
+      type: github
+      displayName: yangjunjun
+      url: 'https://github.com/yangjunjun'
+      picture: 'https://avatars.githubusercontent.com/u/1180563?v=3&s=73'
+    content: just for Test.
+    date: 2015-10-13T04:41:34.150Z
