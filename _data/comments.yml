@@ -454,3 +454,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1180563?v=3&s=73'
     content: just for Test.
     date: 2015-10-13T04:41:34.150Z
+  - author:
+      type: github
+      displayName: dongoo
+      url: 'https://github.com/dongoo'
+      picture: 'https://avatars.githubusercontent.com/u/6867964?v=3&s=73'
+    content: 'great!'
+    date: 2015-10-14T00:48:00.529Z
