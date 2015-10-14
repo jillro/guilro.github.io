@@ -475,3 +475,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3264292?v=3&s=73'
     content: 'Cool! thanks! '
     date: 2015-10-14T06:55:04.492Z
+  - author:
+      type: github
+      displayName: tao12345666333
+      url: 'https://github.com/tao12345666333'
+      picture: 'https://avatars.githubusercontent.com/u/3264292?v=3&s=73'
+    content: 'Cool! thanks!'
+    date: 2015-10-14T06:56:57.705Z
