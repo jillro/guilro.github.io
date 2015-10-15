@@ -482,3 +482,10 @@
       picture: 'https://avatars.githubusercontent.com/u/3264292?v=3&s=73'
     content: 'Cool! thanks!'
     date: 2015-10-14T06:56:57.705Z
+  - author:
+      type: full
+      displayName: iamcco
+      url: 'https://github.com/iamcco'
+      picture: 'https://avatars.githubusercontent.com/u/5492542?v=3&s=73'
+    content: 'this is test &#x6D4B;&#x8BD5;'
+    date: 2015-10-15T07:58:49.675Z
