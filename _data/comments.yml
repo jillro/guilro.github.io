@@ -489,3 +489,10 @@
       picture: 'https://avatars.githubusercontent.com/u/5492542?v=3&s=73'
     content: 'this is test &#x6D4B;&#x8BD5;'
     date: 2015-10-15T07:58:49.675Z
+  - author:
+      type: twitter
+      displayName: pengisgood
+      url: 'https://twitter.com/pengisgood'
+      picture: 'https://pbs.twimg.com/profile_images/601378336854528000/CAsC63JW_bigger.jpg'
+    content: 'I can&apos;t wait to have a try. :)'
+    date: 2015-10-16T01:55:42.476Z
