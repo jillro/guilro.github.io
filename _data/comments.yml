@@ -503,3 +503,10 @@
       picture: 'https://pbs.twimg.com/profile_images/3467167755/bf8156121992ee0c94766cf419744ce8_bigger.jpeg'
     content: Testing this out. Cool
     date: 2015-10-16T23:15:33.561Z
+  - author:
+      type: twitter
+      displayName: zzxiv
+      url: 'https://twitter.com/zzxiv'
+      picture: 'https://pbs.twimg.com/profile_images/534859151839477760/EyhRb50V_bigger.jpeg'
+    content: 'This is really cool! Will emoticons like :wink: be supported in future releases?'
+    date: 2015-10-17T02:04:37.220Z
