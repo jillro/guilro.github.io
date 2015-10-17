@@ -524,3 +524,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1680273?v=3&s=73'
     content: I would like to give it a try.
     date: 2015-10-17T11:34:13.309Z
+  - author:
+      type: full
+      displayName: jaywcjlove
+      url: 'https://github.com/jaywcjlove'
+      picture: 'https://avatars.githubusercontent.com/u/1680273?v=3&s=73'
+    content: could not commit the comment to github (repository or file not found)
+    date: 2015-10-17T11:37:25.726Z
