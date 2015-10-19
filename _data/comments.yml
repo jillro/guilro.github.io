@@ -531,3 +531,10 @@
       picture: 'https://avatars.githubusercontent.com/u/1680273?v=3&s=73'
     content: could not commit the comment to github (repository or file not found)
     date: 2015-10-17T11:37:25.726Z
+  - author:
+      type: github
+      displayName: wenzi0github
+      url: 'https://github.com/wenzi0github'
+      picture: 'https://avatars.githubusercontent.com/u/8475373?v=3&s=73'
+    content: 'can make comments stand by markdown?  &grave;hello world&grave;'
+    date: 2015-10-19T02:48:24.337Z
