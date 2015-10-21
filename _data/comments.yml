@@ -538,3 +538,12 @@
       picture: 'https://avatars.githubusercontent.com/u/8475373?v=3&s=73'
     content: 'can make comments stand by markdown?  &grave;hello world&grave;'
     date: 2015-10-19T02:48:24.337Z
+  - author:
+      type: github
+      displayName: liuhu
+      url: 'https://github.com/liuhu'
+      picture: 'https://avatars.githubusercontent.com/u/1286384?v=3&s=73'
+    content: |-
+      nice, let me try!
+      &#x8BD5;&#x8BD5;&#x770B;~
+    date: 2015-10-21T06:51:01.621Z
