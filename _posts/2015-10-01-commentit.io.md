@@ -6,6 +6,9 @@ title: 'Launching Comm(ent|it) (aka comments on Github Pages)'
 *If you just want to try Comm(ent|it) without reading the all story, go, it is
 there, on [commentit.io](https://commentit.io/) !*
 
+*EDIT 27th October 2015 : [Comm(ent|it) is now opensource](/2015/10/27/open-
+*sourcing-commentit.io.html)&nbsp;!*
+
 I have been working on [Comm(ent|it)](https://commentit.io) since January 2015.
 When I had created this blog one year before, I had told myself that third party
 comment systems were only a temporary solution. Like many of us, my blog is
