@@ -554,6 +554,13 @@
       picture: 'https://avatars.githubusercontent.com/u/8544696?v=3&s=73'
     content: 'Cool &#xFF01;~'
     date: 2015-10-30T08:40:54.123Z
+  - author:
+      type: github
+      displayName: yuche
+      url: 'https://github.com/yuche'
+      picture: 'https://avatars.githubusercontent.com/u/7202516?v=3&s=73'
+    content: cool
+    date: 2015-10-31T03:30:12.890Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
