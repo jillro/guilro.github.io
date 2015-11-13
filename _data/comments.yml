@@ -585,3 +585,10 @@
       picture: 'https://avatars.githubusercontent.com/u/5492542?v=3&s=73'
     content: cool
     date: 2015-11-10T05:39:14.442Z
+  - author:
+      type: github
+      displayName: royaso
+      url: 'https://github.com/royaso'
+      picture: 'https://avatars.githubusercontent.com/u/2331406?v=3&s=73'
+    content: gfwed?
+    date: 2015-11-13T02:23:54.182Z
