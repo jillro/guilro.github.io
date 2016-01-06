@@ -570,6 +570,13 @@
       &#x4E0D;&#x5BB9;&#x6613;&#x554A;
       test
     date: 2015-11-13T02:14:23.021Z
+  - author:
+      type: github
+      displayName: jo32
+      url: 'https://github.com/jo32'
+      picture: 'https://avatars.githubusercontent.com/u/501632?v=3&s=73'
+    content: test
+    date: 2016-01-06T09:35:30.010Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
