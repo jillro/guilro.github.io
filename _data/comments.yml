@@ -606,3 +606,10 @@
       picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
     content: '??'
     date: 2015-11-25T00:20:52.527Z
+  - author:
+      type: twitter
+      displayName: SilentComics
+      url: 'https://twitter.com/SilentComics'
+      picture: 'https://pbs.twimg.com/profile_images/509481093515321344/JcTYlvG4_bigger.png'
+    content: 'Thank you &mdash; it looks like a promising alternative to Disqus for Jekyll / GitHub pages blogs. Easy to setup too.  Well done!'
+    date: 2016-02-15T23:42:41.743Z
