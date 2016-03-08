@@ -613,3 +613,11 @@
       picture: 'https://pbs.twimg.com/profile_images/509481093515321344/JcTYlvG4_bigger.png'
     content: 'Thank you &mdash; it looks like a promising alternative to Disqus for Jekyll / GitHub pages blogs. Easy to setup too.  Well done!'
     date: 2016-02-15T23:42:41.743Z
+/2014/01/31/race-conditions-on-single-thread:
+  - author:
+      type: full
+      displayName: wifiextender
+      url: 'https://github.com/wifiextender'
+      picture: 'https://avatars.githubusercontent.com/u/4725121?v=3&s=73'
+    content: Test
+    date: 2016-03-08T13:44:52.738Z
