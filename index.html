@@ -3,7 +3,31 @@ layout: default
 title: Blog Posts
 ---
 
-<div class="postsList">
+<div class="about-me">
+  <div class="row">
+    <div class="col-md-5 text-center">
+      <img src="/images/profile.jpg" style="margin-bottom: 20px;">
+    </div>
+    <div class="col-md-7">
+      <p>
+        Je suis un développeur basé à Paris. Je construis des sites web et toutes sortes d'applications.
+      <P>
+
+      <p>
+        Je peux aussi héberger votre site à faible ou moyenne fréquentation pour 15€ par mois. Je m'occupe pour vous des sauvegardes, des mises à jours et de la maintenance. Pour des applications plus complexes ou à plus gros trafic, n'hésitez pas à me demander une estimation.
+      </p>
+
+      <p><em>
+        Ce site est bilingue Français- Anglais. Les parties qui concernent des sujets techniques sont rédigées en Anglais.
+      </em></p>
+    </div>
+  </div>
+
+
+</div>
+
+<div class="posts-list">
+  <h3>Blogposts</h3>
   {% for post in site.posts %}
     <p>
       <a href="{{ post.url }}">{{ post.title }}</a>

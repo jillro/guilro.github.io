@@ -42,6 +42,7 @@
 }
 
 $font-family-sans-serif: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 @import  "bootstrap-sass/assets/stylesheets/bootstrap";
 
 
@@ -63,6 +64,7 @@ body, html {
   height: 90px;
 }
 
+// Mixin for will sized central column
 
 @mixin make-one-main-column() {
    @include make-sm-column(12);
@@ -71,6 +73,8 @@ body, html {
   @include make-lg-column(8);
   @include make-lg-column-offset(2);
 }
+
+// Header
 
 .header {
   @include make-row();
@@ -106,36 +110,47 @@ body, html {
 
 }
 
+// Content
+
 .content {
   @include make-row();
   padding-top: 50px;
   padding-bottom: 50px;
 
+  p {
+    text-indent: 10px;
+    img {
+      float: left;
+      margin: 10px;
+    }
+  }
+
   .post {
     @include make-one-main-column();
     margin-bottom: 50px;
-    p {
-      text-indent: 10px;
-      img {
-        float: left;
-      }
-    }
 
     .comments {
       padding-top: 30px;
     }
   }
 
-  .postsList {
-    @include make-one-main-column();
+  // Homepage
+
+  .about-me {
+    @include make-sm-column(6);
+  }
+
+  .posts-list {
+    @include make-sm-column(6);
     font-size: large;
     padding-top: 10px;
     padding-left: 30px;
     background-color: white;
-    border: 1px solid #CCC;
     border-radius: 5px;
   }
 }
+
+// Footer
 
 .container.footer > .footer {
   padding-top: 10px;
@@ -147,14 +162,3 @@ body, html {
     }
   }
 }
-
-/*pre code {
-  color: white;
-  background-color: black;
-  font-weight: bold;
-}
-pre {
-  color: white;
-  background-color: black;
-}
-*/

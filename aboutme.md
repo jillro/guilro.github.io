@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: About me
 ---
 
-![Profile picture](http://www.gravatar.com/avatar/a6b99ba6177a063e0171508ac69705af?s=200)I am a French self-taught developer, mostly interested at the moment in web development. I started with HTML, CSS, Javascript and PHP when I was 13, thanks to the french website [siteduzero.com] (it did not get better in quality), and some horrible Javascript tutorials.
+![Profile picture](/images/profile.jpg)
+
+I am a French self-taught developer, mostly interested at the moment in web development. I started with HTML, CSS, Javascript and PHP when I was 13, thanks to the french website [siteduzero.com] (it did not get better in quality), and some horrible Javascript tutorials.
 
 I learned to use Symfony in 2012, and decided to give a try to [node.js] in October 2013 because of [socket.io]. I fell in love and rediscovered Javascript again. I am also interested in [ReactPHP], as I still love the language and want to better understand the core concepts of event loops, thanks to the project being in early stage.
 
