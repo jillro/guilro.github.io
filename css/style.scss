@@ -138,6 +138,21 @@ body, html {
 
   .about-me {
     @include make-sm-column(6);
+    & > .presentation {
+      @include make-row();
+      & > .picture {
+        @include make-md-column(5);
+      }
+      & > .text {
+        @include make-md-column(7);
+      }
+    }
+    & > .projects {
+      @include make-row();
+      & > .project-list {
+        @include make-one-main-column();
+      }
+    }
   }
 
   .posts-list {
