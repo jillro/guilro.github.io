@@ -1,90 +1,77 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }} - {{ site.name}}</title>
-        <meta name="viewport" content="width=device-width">
-        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/css/main.css">
-    </head>
-    <body>
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
 
-        <div class="container" id="page-container">
-
-            <div class="row" id="header">
-                <div class="col-md-6" id="brand">
-                    <a href="/"><h3 class="title">{{ site.name }}</h3></a>
-                </div>
-                <div class="col-md-6" id="navigation">
-		    <ul class="nav nav-pills nav-justified">
-                        <li>
-                        <a href="/"><img src="/images/home.png" alt="Home"> Home</a>
-                        </li>
-                        <li>
-                        <a href="/aboutme.html"><img src="/images/aboutme.png" alt="About me"> About me</a>
-                        </li>
-                        <li>
-                        <a href="/links.html"><img src="/images/links.png" alt="Links"> Links</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row" id="body">
-                <div class="col-md-10 col-md-offset-1" id="content">
-                     {{ content }}
-                </div>
-            </div>
+    <div class="page container">
+      <div class="header">
+        <div class="brand">
+            <a href="/"><h3 class="title">{{ site.name }}</h3></a>
         </div>
-        <div class="container" id="footer-container">
-            <div class="row" id="footer">
-                <div class="col-md-3 contact">
-                    <p>
-                        <a href="mailto:perso@guilro.com">
-                            <img src="/images/logomail.png" alt="Email">Email
-                        </a>
-                    </p>
-                </div>
-                <div class="col-md-3 contact">
-                    <p>
-                        <a href="https://github.com/guilro">
-                            <img src="/images/logogithub2.png" alt="Github">GitHub
-                        </a>
-                    </p>
-                </div>
-                <div class="col-md-3 contact">
-                    <p>
-                        <a href="http://www.linkedin.com/in/groyer">
-                            <img src="/images/logolinkedin2.png" alt="LinkedIn">LinkedIn
-                        </a>
-                    </p>
-                </div>
-                <div class="col-md-3 contact">
-                    <p>
-                        <a href="http://stackoverflow.com/users/3046804/guillaume-royer">
-                            <img src="/images/logostackoverflow.png" alt="Stackoverflow">Stackoverflow
-                        </a>
-                    </p>
-                    <p class="text-right text-muted">
-                        <small>
-                            <em>pictures by bmaz</em>
-                        </small>
-                    </p>
-                </div>
-            </div>
+        <div class="navigation">
+          <ul class="nav nav-pills nav-justified">
+            <li>
+            <a href="/"><img src="/images/home.png" alt="Home"> Home</a>
+            </li>
+            <li>
+            <a href="/aboutme.html"><img src="/images/aboutme.png" alt="About me"> About me</a>
+            </li>
+            <li>
+            <a href="/links.html"><img src="/images/links.png" alt="Links"> Links</a>
+            </li>
+          </ul>
         </div>
-	<script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            ga('create', 'UA-38236861-4', 'auto');
-            ga('send', 'pageview');
-	</script>
-    </body>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+    </div><!-- /.page.container -->
+
+    <div class="container footer">
+      <div class="footer">
+        <div class="col-md-3 contact">
+          <p><a href="mailto:perso@guilro.com">
+            <img src="/images/logomail.png" alt="Email">Email
+          </a></p>
+        </div>
+        <div class="col-md-3 contact">
+          <p><a href="https://github.com/guilro">
+            <img src="/images/logogithub2.png" alt="Github">GitHub
+          </a></p>
+        </div>
+        <div class="col-md-3 contact">
+          <p><a href="http://www.linkedin.com/in/groyer">
+            <img src="/images/logolinkedin2.png" alt="LinkedIn">LinkedIn
+          </a></p>
+        </div>
+        <div class="col-md-3 contact">
+          <p><a href="http://stackoverflow.com/users/3046804/guillaume-royer">
+            <img src="/images/logostackoverflow.png" alt="Stackoverflow">Stackoverflow
+          </a></p>
+        </div>
+        <div class="col-md-12">
+          <p class="text-right text-muted"><small><em>pictures by bmaz</em></small></p>
+        </div>
+      </div>
+    </div><!-- / .footer.container -->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-38236861-4', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
 </html>

@@ -1,4 +1,2 @@
 _site
-*.swp
-*.swo
-*~
+.sass-cache

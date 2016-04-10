@@ -1,0 +1,21 @@
+{
+  "name": "guilro.github.io.git",
+  "homepage": "https://github.com/guilro/guilro.github.io",
+  "authors": [
+    "Guillaume Royer"
+  ],
+  "description": "Guillaume's website",
+  "license": "AGPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "material-design-lite": "^1.1.3"
+  }
+}

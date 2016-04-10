@@ -1,6 +1,19 @@
 name: Guillaume Royer
 description: Blog about web development.
 url: http://guilro.github.io
-markdown: redcarpet
-highlighter: true
 timezone: Europe/Paris
+sass:
+  sass_dir: bower_components/
+kramdown:
+   input: GFM
+   hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+exclude: [bower_components, bower.json]

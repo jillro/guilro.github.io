@@ -3,18 +3,16 @@ layout: default
 title: Blog Posts
 ---
 
-<div class="row">
-    <div class="col-md-10 col-md-offset-1" id="postsList">
-        {% for post in site.posts %}
-            <p>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                {% if post.categories contains 'french' %}
-                    <small class="text-muted">(French)</small>
-                {% endif %} <br>
-                <span class="text-muted">
-                    <em>{{ post.date | date_to_string }}</em>
-                </span>
-            </p>
-        {% endfor %}
-    </div>
+<div class="postsList">
+  {% for post in site.posts %}
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.categories contains 'french' %}
+        <small class="text-muted">(French)</small>
+      {% endif %} <br>
+      <span class="text-muted">
+        <em>{{ post.date | date_to_string }}</em>
+      </span>
+    </p>
+  {% endfor %}
 </div>
