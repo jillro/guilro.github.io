@@ -4,7 +4,7 @@
       displayName: guilro
       url: 'https://github.com/guilro'
       picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
-    content: 'This is my first comment with commentit.io !'
+    content: This is my first comment with commentit.io !
     date: 2015-10-04T22:26:47.244Z
   - author:
       type: full
@@ -17,7 +17,8 @@
       type: twitter
       displayName: guilro_
       url: 'https://twitter.com/guilro_'
-      picture: 'https://pbs.twimg.com/profile_images/439412146514837504/xUwZvBH4_bigger.jpeg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/439412146514837504/xUwZvBH4_bigger.jpeg
     content: |-
       You can also use your twitter account.
 
@@ -34,7 +35,8 @@
       type: twitter
       displayName: loige
       url: 'https://twitter.com/loige'
-      picture: 'https://pbs.twimg.com/profile_images/591629212123037696/dCisOhdz_bigger.jpg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/591629212123037696/dCisOhdz_bigger.jpg
     content: |-
       This is cool. Seems a kind of lightweight disqus!
 
@@ -52,14 +54,14 @@
       displayName: bmaz
       url: 'https://github.com/bmaz'
       picture: 'https://avatars.githubusercontent.com/u/5666046?v=3&s=73'
-    content: 'Great job !'
+    content: Great job !
     date: 2015-10-05T08:26:28.351Z
   - author:
       type: github
       displayName: ruanyf
       url: 'https://github.com/ruanyf'
       picture: 'https://avatars.githubusercontent.com/u/905434?v=3&s=73'
-    content: 'Great Idea! Cannot wait to try it.'
+    content: Great Idea! Cannot wait to try it.
     date: 2015-10-05T12:43:35.137Z
   - author:
       type: full
@@ -73,14 +75,14 @@
       displayName: nerdDan
       url: 'https://github.com/nerdDan'
       picture: 'https://avatars.githubusercontent.com/u/3108734?v=3&s=73'
-    content: 'love it!'
+    content: love it!
     date: 2015-10-05T13:15:59.436Z
   - author:
       type: github
       displayName: butterandfly
       url: 'https://github.com/butterandfly'
       picture: 'https://avatars.githubusercontent.com/u/1502478?v=3&s=73'
-    content: 'Great try!'
+    content: Great try!
     date: 2015-10-05T13:22:33.995Z
   - author:
       type: github
@@ -110,14 +112,14 @@
       displayName: barretlee
       url: 'https://github.com/barretlee'
       picture: 'https://avatars.githubusercontent.com/u/2698003?v=3&s=73'
-    content: 'nice job!'
+    content: nice job!
     date: 2015-10-05T13:54:36.979Z
   - author:
       type: github
       displayName: zryfish
       url: 'https://github.com/zryfish'
       picture: 'https://avatars.githubusercontent.com/u/3326354?v=3&s=73'
-    content: 'Awesome!'
+    content: Awesome!
     date: 2015-10-05T14:01:05.891Z
   - author:
       type: github
@@ -159,13 +161,14 @@
       displayName: blanboom
       url: 'https://github.com/blanboom'
       picture: 'https://avatars.githubusercontent.com/u/3883228?v=3&s=73'
-    content: 'Wow!'
+    content: Wow!
     date: 2015-10-05T14:49:06.929Z
   - author:
       type: twitter
       displayName: huskytommy
       url: 'https://twitter.com/huskytommy'
-      picture: 'https://pbs.twimg.com/profile_images/574390248064466944/INNdJ222_bigger.jpeg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/574390248064466944/INNdJ222_bigger.jpeg
     content: nice going
     date: 2015-10-05T15:08:59.930Z
   - author:
@@ -241,14 +244,14 @@
       displayName: dirkkelly
       url: 'https://github.com/dirkkelly'
       picture: 'https://avatars.githubusercontent.com/u/81055?v=3&s=73'
-    content: 'Fantastic thank you!'
+    content: Fantastic thank you!
     date: 2015-10-05T23:41:34.181Z
   - author:
       type: github
       displayName: nicolewhite
       url: 'https://github.com/nicolewhite'
       picture: 'https://avatars.githubusercontent.com/u/7498009?v=3&s=73'
-    content: 'hello world!'
+    content: hello world!
     date: 2015-10-06T00:11:36.286Z
   - author:
       type: github
@@ -262,14 +265,15 @@
       displayName: joway
       url: 'https://github.com/joway'
       picture: 'https://avatars.githubusercontent.com/u/8353464?v=3&s=73'
-    content: 'cool!!!'
+    content: cool!!!
     date: 2015-10-06T00:43:31.077Z
   - author:
       type: full
       displayName: twiceyuan
       url: 'https://github.com/twiceyuan'
       picture: 'https://avatars.githubusercontent.com/u/2619800?v=3&s=73'
-    content: '&#x6D4B;&#x8BD5;&#x4E00;&#x4E0B;&#xFF0C;&#x770B;&#x8D77;&#x6765;&#x8FD8;&#x4E0D;&#x9519;'
+    content: >-
+      &#x6D4B;&#x8BD5;&#x4E00;&#x4E0B;&#xFF0C;&#x770B;&#x8D77;&#x6765;&#x8FD8;&#x4E0D;&#x9519;
     date: 2015-10-06T01:02:57.054Z
   - author:
       type: twitter
@@ -283,7 +287,7 @@
       displayName: woodruffw
       url: 'https://github.com/woodruffw'
       picture: 'https://avatars.githubusercontent.com/u/3059210?v=3&s=73'
-    content: 'Clever idea! Definitely going to look into replacing Disquis with this.'
+    content: Clever idea! Definitely going to look into replacing Disquis with this.
     date: 2015-10-06T02:09:25.992Z
   - author:
       type: full
@@ -311,35 +315,37 @@
       displayName: shuoli84
       url: 'https://github.com/shuoli84'
       picture: 'https://avatars.githubusercontent.com/u/3402035?v=3&s=73'
-    content: 'What? Really? Awesome!!!!'
+    content: What? Really? Awesome!!!!
     date: 2015-10-06T03:37:22.626Z
   - author:
       type: github
       displayName: deevus
       url: 'https://github.com/deevus'
       picture: 'https://avatars.githubusercontent.com/u/856194?v=3&s=73'
-    content: 'Nice job!'
+    content: Nice job!
     date: 2015-10-06T03:55:23.236Z
   - author:
       type: github
       displayName: will-sterling
       url: 'https://github.com/will-sterling'
       picture: 'https://avatars.githubusercontent.com/u/2119797?v=3&s=73'
-    content: 'Great job!'
+    content: Great job!
     date: 2015-10-06T03:57:07.421Z
   - author:
       type: github
       displayName: erlend-sh
       url: 'https://github.com/erlend-sh'
       picture: 'https://avatars.githubusercontent.com/u/583842?v=3&s=73'
-    content: 'Very interesting!'
+    content: Very interesting!
     date: 2015-10-06T06:53:20.848Z
   - author:
       type: full
       displayName: guilro
       url: 'https://github.com/guilro'
       picture: 'https://avatars.githubusercontent.com/u/301998?v=3&s=73'
-    content: '@anebg Once a comment is on Github, the only way to remove it is to ask the website owner.'
+    content: >-
+      @anebg Once a comment is on Github, the only way to remove it is to ask
+      the website owner.
     date: 2015-10-06T07:13:19.542Z
   - author:
       type: full
@@ -366,7 +372,8 @@
       type: twitter
       displayName: hookii_it
       url: 'https://twitter.com/hookii_it'
-      picture: 'https://pbs.twimg.com/profile_images/595537092131876864/K6UzMzqc_bigger.png'
+      picture: >-
+        https://pbs.twimg.com/profile_images/595537092131876864/K6UzMzqc_bigger.png
     content: 'Nice job! '
     date: 2015-10-06T10:14:55.848Z
   - author:
@@ -374,7 +381,9 @@
       displayName: sathomas
       url: 'https://github.com/sathomas'
       picture: 'https://avatars.githubusercontent.com/u/1731910?v=3&s=73'
-    content: 'Nice work. Is the source code on GitHub? (I couldn&apos;t find it, but perhaps I&apos;m just not looking in the right places.)'
+    content: >-
+      Nice work. Is the source code on GitHub? (I couldn&apos;t find it, but
+      perhaps I&apos;m just not looking in the right places.)
     date: 2015-10-06T12:30:04.640Z
   - author:
       type: full
@@ -424,20 +433,21 @@
       displayName: kxxoling
       url: 'https://github.com/kxxoling'
       picture: 'https://avatars.githubusercontent.com/u/1227139?v=3&s=73'
-    content: 'Just another test!'
+    content: Just another test!
     date: 2015-10-09T08:53:41.151Z
   - author:
       type: full
       displayName: yfaming
       url: 'https://github.com/yfaming'
       picture: 'https://avatars.githubusercontent.com/u/1272675?v=3&s=73'
-    content: 'Excited!'
+    content: Excited!
     date: 2015-10-09T09:10:25.577Z
   - author:
       type: twitter
       displayName: omsobliga
       url: 'https://twitter.com/omsobliga'
-      picture: 'https://pbs.twimg.com/profile_images/496295050578391040/DuK-8QgJ_bigger.jpeg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/496295050578391040/DuK-8QgJ_bigger.jpeg
     content: dd
     date: 2015-10-09T09:17:01.760Z
   - author:
@@ -459,7 +469,7 @@
       displayName: dongoo
       url: 'https://github.com/dongoo'
       picture: 'https://avatars.githubusercontent.com/u/6867964?v=3&s=73'
-    content: 'great!'
+    content: great!
     date: 2015-10-14T00:48:00.529Z
   - author:
       type: github
@@ -480,7 +490,7 @@
       displayName: tao12345666333
       url: 'https://github.com/tao12345666333'
       picture: 'https://avatars.githubusercontent.com/u/3264292?v=3&s=73'
-    content: 'Cool! thanks!'
+    content: Cool! thanks!
     date: 2015-10-14T06:56:57.705Z
   - author:
       type: full
@@ -493,29 +503,34 @@
       type: twitter
       displayName: pengisgood
       url: 'https://twitter.com/pengisgood'
-      picture: 'https://pbs.twimg.com/profile_images/601378336854528000/CAsC63JW_bigger.jpg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/601378336854528000/CAsC63JW_bigger.jpg
     content: 'I can&apos;t wait to have a try. :)'
     date: 2015-10-16T01:55:42.476Z
   - author:
       type: twitter
       displayName: w3guy
       url: 'https://twitter.com/w3guy'
-      picture: 'https://pbs.twimg.com/profile_images/3467167755/bf8156121992ee0c94766cf419744ce8_bigger.jpeg'
+      picture: >-
+        https://pbs.twimg.com/profile_images/3467167755/bf8156121992ee0c94766cf419744ce8_bigger.jpeg
     content: Testing this out. Cool
     date: 2015-10-16T23:15:33.561Z
   - author:
       type: twitter
       displayName: zzxiv
       url: 'https://twitter.com/zzxiv'
-      picture: 'https://pbs.twimg.com/profile_images/534859151839477760/EyhRb50V_bigger.jpeg'
-    content: 'This is really cool! Will emoticons like :wink: be supported in future releases?'
+      picture: >-
+        https://pbs.twimg.com/profile_images/534859151839477760/EyhRb50V_bigger.jpeg
+    content: >-
+      This is really cool! Will emoticons like :wink: be supported in future
+      releases?
     date: 2015-10-17T02:04:37.220Z
   - author:
       type: github
       displayName: jaywcjlove
       url: 'https://github.com/jaywcjlove'
       picture: 'https://avatars.githubusercontent.com/u/1680273?v=3&s=73'
-    content: 'Great job !'
+    content: Great job !
     date: 2015-10-17T06:41:32.039Z
   - author:
       type: full
@@ -536,7 +551,7 @@
       displayName: wenzi0github
       url: 'https://github.com/wenzi0github'
       picture: 'https://avatars.githubusercontent.com/u/8475373?v=3&s=73'
-    content: 'can make comments stand by markdown?  &grave;hello world&grave;'
+    content: can make comments stand by markdown?  &grave;hello world&grave;
     date: 2015-10-19T02:48:24.337Z
   - author:
       type: github
@@ -577,6 +592,13 @@
       picture: 'https://avatars.githubusercontent.com/u/501632?v=3&s=73'
     content: test
     date: 2016-01-06T09:35:30.010Z
+  - author:
+      type: github
+      displayName: diadatp
+      url: 'https://github.com/diadatp'
+      picture: 'https://avatars.githubusercontent.com/u/4490283?v=3&s=73'
+    content: test
+    date: 2016-05-04T20:07:30.815Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
@@ -610,8 +632,11 @@
       type: twitter
       displayName: SilentComics
       url: 'https://twitter.com/SilentComics'
-      picture: 'https://pbs.twimg.com/profile_images/509481093515321344/JcTYlvG4_bigger.png'
-    content: 'Thank you &mdash; it looks like a promising alternative to Disqus for Jekyll / GitHub pages blogs. Easy to setup too.  Well done!'
+      picture: >-
+        https://pbs.twimg.com/profile_images/509481093515321344/JcTYlvG4_bigger.png
+    content: >-
+      Thank you &mdash; it looks like a promising alternative to Disqus for
+      Jekyll / GitHub pages blogs. Easy to setup too.  Well done!
     date: 2016-02-15T23:42:41.743Z
 /2014/01/31/race-conditions-on-single-thread:
   - author:
