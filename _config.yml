@@ -10,6 +10,7 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+  - jekyll-seo-tag
 lsi: false
 safe: true
 incremental: false
