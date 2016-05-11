@@ -152,9 +152,6 @@ body, html {
       & > .project-list {
         @include make-one-main-column();
       }
-      & > .pgp-key {
-        @include make-one-main-column();
-      }
     }
   }
 
