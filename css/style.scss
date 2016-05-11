@@ -147,9 +147,12 @@ body, html {
         @include make-md-column(7);
       }
     }
-    & > .projects {
+    & > .presentation-2 {
       @include make-row();
       & > .project-list {
+        @include make-one-main-column();
+      }
+      & > .pgp-key {
         @include make-one-main-column();
       }
     }
