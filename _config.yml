@@ -1,6 +1,6 @@
 name: Guillaume Royer
 description: Blog about web development.
-url: http://guilro.github.io
+url: https://blog.guilro.com
 timezone: Europe/Paris
 sass:
   sass_dir: bower_components/
@@ -8,8 +8,6 @@ kramdown:
    input: GFM
    hard_wrap: false
 gems:
-  - jekyll-coffeescript
-  - jekyll-paginate
   - jekyll-seo-tag
 lsi: false
 safe: true
