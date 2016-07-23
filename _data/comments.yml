@@ -599,6 +599,13 @@
       picture: 'https://avatars.githubusercontent.com/u/4490283?v=3&s=73'
     content: test
     date: 2016-05-04T20:07:30.815Z
+  - author:
+      type: github
+      displayName: xlhdh
+      url: 'https://github.com/xlhdh'
+      picture: 'https://avatars.githubusercontent.com/u/4240400?v=3&s=73'
+    content: '&#x4F46;&#x662F;&#x5FC5;&#x987B;sign in&#x554A;'
+    date: 2016-07-23T16:15:38.926Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
