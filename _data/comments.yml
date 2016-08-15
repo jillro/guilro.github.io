@@ -606,6 +606,13 @@
       picture: 'https://avatars.githubusercontent.com/u/4240400?v=3&s=73'
     content: '&#x4F46;&#x662F;&#x5FC5;&#x987B;sign in&#x554A;'
     date: 2016-07-23T16:15:38.926Z
+  - author:
+      type: full
+      displayName: choury
+      url: 'https://github.com/choury'
+      picture: 'https://avatars.githubusercontent.com/u/4332542?v=3&s=73'
+    content: test
+    date: 2016-08-15T11:33:33.346Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
