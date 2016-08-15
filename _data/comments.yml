@@ -645,6 +645,13 @@
       Thank you &mdash; it looks like a promising alternative to Disqus for
       Jekyll / GitHub pages blogs. Easy to setup too.  Well done!
     date: 2016-02-15T23:42:41.743Z
+  - author:
+      type: full
+      displayName: foobar
+      url: 'https://github.com/foobar'
+      picture: 'https://avatars.githubusercontent.com/u/5953?v=3&s=73'
+    content: great work
+    date: 2016-08-15T08:52:30.483Z
 /2014/01/31/race-conditions-on-single-thread:
   - author:
       type: full
