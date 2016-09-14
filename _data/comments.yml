@@ -620,6 +620,13 @@
       picture: 'https://avatars.githubusercontent.com/u/3949015?v=3&s=73'
     content: commit
     date: 2016-08-21T07:13:59.906Z
+  - author:
+      type: github
+      displayName: forecho
+      url: 'https://github.com/forecho'
+      picture: 'https://avatars.githubusercontent.com/u/1725326?v=3&s=73'
+    content: '&#x6D4B;&#x8BD5;&#x4E00;&#x4E0B;'
+    date: 2016-09-14T03:25:01.517Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
