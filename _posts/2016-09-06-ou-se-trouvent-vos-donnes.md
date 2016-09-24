@@ -10,6 +10,7 @@ Prenons une petite organisation. Ce peut être une boutique e-commerce avec un f
 L'organisation possède une ou plusieurs listes d'adresse e-mail recensant un certain nombre de personnes, clients, ahdérents ou donateurs. Elle les utilise pour un certain nombre de choses. Parmi elle une est particulièrement importante : envoyer des informations au client.
 
 La liste de l'outil de newsletter n'est pas la seule liste d'adresses e-mail ou de personnes dont dispose une organisation. On peut penser à des objets comme :
+
 - les commandes dans la boutique
 - les prélévements automatiques
 - les paiments sur Paypal ou un portail de paiement direct en banque comme Systempay ou Paybox
