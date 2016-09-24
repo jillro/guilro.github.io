@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if page.previous %}
+<a href="{{ page.previous.url }}">&larr; Previous post</a><br>
+{% endif %}
+{% if page.next %}
+<a href="{{ page.next.url }}">Next post &rarr;</a>
+{% endif %}
 <div class="post">
   <h2>{{ page.title }}</h2>
   <p class="meta">{{ page.date | date_to_string }}</p>
