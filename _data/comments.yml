@@ -627,6 +627,13 @@
       picture: 'https://avatars.githubusercontent.com/u/1725326?v=3&s=73'
     content: '&#x6D4B;&#x8BD5;&#x4E00;&#x4E0B;'
     date: 2016-09-14T03:25:01.517Z
+  - author:
+      type: full
+      displayName: Jerry-Ma
+      url: 'https://github.com/Jerry-Ma'
+      picture: 'https://avatars.githubusercontent.com/u/2752708?v=3&s=73'
+    content: Thank you for the great work!
+    date: 2016-10-03T21:41:10.189Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
