@@ -644,6 +644,13 @@
       can be automatically merged? Currently I have to manually go to the web
       page and click the button.
     date: 2016-10-04T14:01:50.900Z
+  - author:
+      type: full
+      displayName: RitterHou
+      url: 'https://github.com/RitterHou'
+      picture: 'https://avatars.githubusercontent.com/u/11351442?v=3&s=73'
+    content: test
+    date: 2016-12-18T08:58:19.905Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
