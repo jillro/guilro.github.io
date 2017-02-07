@@ -720,6 +720,16 @@
       picture: 'https://avatars.githubusercontent.com/u/5953?v=3&s=73'
     content: great work
     date: 2016-08-15T08:52:30.483Z
+  - author:
+      type: full
+      displayName: PankajRedekar
+      url: 'https://github.com/PankajRedekar'
+      picture: 'https://avatars.githubusercontent.com/u/17065120?v=3&s=73'
+    content: |-
+      video tutorial 
+      how to setup comm(ent|it).io ?
+      please....... 
+    date: 2017-02-07T14:13:08.625Z
 /2014/01/31/race-conditions-on-single-thread:
   - author:
       type: full
