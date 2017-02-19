@@ -674,6 +674,13 @@
       picture: 'https://avatars.githubusercontent.com/u/8694379?v=3&s=73'
     content: It&apos;s really awesome!
     date: 2017-01-22T12:36:40.622Z
+  - author:
+      type: full
+      displayName: WeiGrand
+      url: 'https://github.com/WeiGrand'
+      picture: 'https://avatars.githubusercontent.com/u/11720385?v=3&s=73'
+    content: try try
+    date: 2017-02-19T03:44:38.939Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
