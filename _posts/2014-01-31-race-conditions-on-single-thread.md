@@ -1,6 +1,68 @@
 ---
 layout: postCommentit
 title: Can we have a race condition in a single thread program ?
+comments:
+  - date: 2015-01-03T00:46:43.540Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-03T00:46:58.704Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-03T00:47:13.130Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:35:00.231Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:36:29.650Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:37:03.343Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:38:45.520Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:40:27.423Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:40:53.179Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:41:59.568Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:42:20.759Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:44:44.356Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:46:23.162Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:46:48.042Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:50:32.877Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:50:46.073Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:59:06.082Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T14:59:29.931Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T15:04:59.563Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+  - date: 2015-01-04T15:21:02.090Z
+    author: Guillaume Royer
+    content: "Lorem ipsum. Chocolat. \n\n Retour à la Ligne."
+
 ---
 
 *If you don't know what race condition is, you can get an excellent explanation (with picture and all the stuff) on [Wikipedia](http://en.wikipedia.org/wiki/Race_condition#Software).*
