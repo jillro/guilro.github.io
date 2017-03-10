@@ -1,6 +1,26 @@
 ---
 layout: postCommentit
 title: Can we have a race condition in a single thread program ?
+comments:
+  - date: 2015-02-02T22:25:51.468Z
+    author:
+      name: Guillaume Royer
+      email: "perso@guilro.com"
+      url: "http://guilro.github.com"
+    content: This is a test.
+  - date: 2015-02-02T22:41:09.799Z
+    author:
+      name: John Doe
+      email: "me@example.com"
+      url: "http://example.com"
+    content: This is another test.
+  - date: 2015-02-09T18:10:18.501Z
+    author:
+      name: guilro
+      url: "https://github.com/guilro"
+      authenticated: true
+    content: This is a test
+
 ---
 
 *If you don't know what race condition is, you can get an excellent explanation (with picture and all the stuff) on [Wikipedia](http://en.wikipedia.org/wiki/Race_condition#Software).*
