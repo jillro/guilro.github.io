@@ -1,6 +1,14 @@
 ---
 layout: postCommentit
 title: Can we have a race condition in a single thread program ?
+comments:
+  - date: 2015-01-05T00:39:38.695Z
+    author:
+      name: Guillaume Royer
+      email: "perso@guilro.com"
+      url: ""
+    content: This is a super comment.
+
 ---
 
 *If you don't know what race condition is, you can get an excellent explanation (with picture and all the stuff) on [Wikipedia](http://en.wikipedia.org/wiki/Race_condition#Software).*
