@@ -769,3 +769,10 @@
       picture: 'https://avatars.githubusercontent.com/u/4725121?v=3&s=73'
     content: Test
     date: 2016-03-08T13:44:52.738Z
+  - author:
+      type: github
+      displayName: hezhongrui
+      url: 'https://github.com/hezhongrui'
+      picture: 'https://avatars3.githubusercontent.com/u/20106775?v=3&s=73'
+    content: test
+    date: 2017-03-23T06:27:37.596Z
