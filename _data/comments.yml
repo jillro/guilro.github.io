@@ -705,6 +705,13 @@
       picture: 'https://avatars0.githubusercontent.com/u/26596139?v=3&s=73'
     content: a
     date: 2017-03-22T10:06:25.151Z
+  - author:
+      type: github
+      displayName: Liz606
+      url: 'https://github.com/Liz606'
+      picture: 'https://avatars0.githubusercontent.com/u/12387149?v=3&s=73'
+    content: test one
+    date: 2017-03-24T09:30:39.973Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
