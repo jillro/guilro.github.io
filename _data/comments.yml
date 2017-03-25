@@ -712,6 +712,14 @@
       picture: 'https://avatars0.githubusercontent.com/u/12387149?v=3&s=73'
     content: test one
     date: 2017-03-24T09:30:39.973Z
+  - author:
+      type: twitter
+      displayName: absentm123
+      url: 'https://twitter.com/absentm123'
+      picture: >-
+        https://pbs.twimg.com/profile_images/745143299351056384/8jfnT-5r_bigger.jpg
+    content: 'test . '
+    date: 2017-03-25T09:47:53.862Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
