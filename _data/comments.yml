@@ -757,6 +757,13 @@
       picture: 'https://avatars1.githubusercontent.com/u/5869999?v=3&s=73'
     content: 'Hi,is it possible to support for hexo?'
     date: 2017-04-01T03:43:11.680Z
+  - author:
+      type: full
+      displayName: yanhaijing
+      url: 'https://github.com/yanhaijing'
+      picture: 'https://avatars0.githubusercontent.com/u/3192087?v=3&s=73'
+    content: '123123123'
+    date: 2017-04-05T06:58:38.763Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
