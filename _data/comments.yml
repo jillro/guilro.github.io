@@ -771,6 +771,13 @@
       picture: 'https://avatars3.githubusercontent.com/u/22285507?v=3&s=73'
     content: '&#x597D;&#x50CF;&#x4E0D;&#x9519;&#x7684;&#x6837;&#x5B50;'
     date: 2017-04-18T09:27:55.300Z
+  - author:
+      type: github
+      displayName: XiaoMuIns
+      url: 'https://github.com/XiaoMuIns'
+      picture: 'https://avatars0.githubusercontent.com/u/24638429?v=3&s=73'
+    content: good job
+    date: 2017-04-24T12:19:16.929Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
