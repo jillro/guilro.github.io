@@ -778,6 +778,13 @@
       picture: 'https://avatars0.githubusercontent.com/u/24638429?v=3&s=73'
     content: good job
     date: 2017-04-24T12:19:16.929Z
+  - author:
+      type: github
+      displayName: O-Eitetsu
+      url: 'https://github.com/O-Eitetsu'
+      picture: 'https://avatars0.githubusercontent.com/u/6576065?v=3&s=73'
+    content: '&#x3044;&#x3044;&#x306D;&#x3002;'
+    date: 2017-05-28T09:10:06.365Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
