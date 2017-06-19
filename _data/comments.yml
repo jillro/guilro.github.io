@@ -785,6 +785,14 @@
       picture: 'https://avatars0.githubusercontent.com/u/6576065?v=3&s=73'
     content: '&#x3044;&#x3044;&#x306D;&#x3002;'
     date: 2017-05-28T09:10:06.365Z
+  - author:
+      type: github
+      displayName: ws2003gq
+      url: 'https://github.com/ws2003gq'
+      picture: 'https://avatars3.githubusercontent.com/u/1281382?v=3&s=73'
+    content: |
+      aaa
+    date: 2017-06-19T02:36:06.447Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
