@@ -793,6 +793,13 @@
     content: |
       aaa
     date: 2017-06-19T02:36:06.447Z
+  - author:
+      type: github
+      displayName: zmatsh
+      url: 'https://github.com/zmatsh'
+      picture: 'https://avatars0.githubusercontent.com/u/19545292?v=3&s=73'
+    content: '&#x3002;&#x3002;&#x3002;'
+    date: 2017-07-09T07:13:16.088Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
