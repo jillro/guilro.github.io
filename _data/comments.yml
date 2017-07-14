@@ -800,6 +800,13 @@
       picture: 'https://avatars0.githubusercontent.com/u/19545292?v=3&s=73'
     content: '&#x3002;&#x3002;&#x3002;'
     date: 2017-07-09T07:13:16.088Z
+  - author:
+      type: full
+      displayName: czytcn
+      url: 'https://github.com/czytcn'
+      picture: 'https://avatars4.githubusercontent.com/u/19337206?v=4&s=73'
+    content: '&#x6D4B;&#x8BD5;'
+    date: 2017-07-14T02:24:29.355Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
