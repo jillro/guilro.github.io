@@ -807,6 +807,13 @@
       picture: 'https://avatars4.githubusercontent.com/u/19337206?v=4&s=73'
     content: '&#x6D4B;&#x8BD5;'
     date: 2017-07-14T02:24:29.355Z
+  - author:
+      type: full
+      displayName: vinnyxiong
+      url: 'https://github.com/vinnyxiong'
+      picture: 'https://avatars2.githubusercontent.com/u/16040912?v=4&s=73'
+    content: '&#x5F88;&#x597D;&#x7684;&#x601D;&#x8DEF;&#x554A;'
+    date: 2017-07-24T03:09:28.831Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
