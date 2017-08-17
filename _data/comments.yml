@@ -822,6 +822,13 @@
     content: >-
       &#x4E3A;&#x4EC0;&#x4E48;&#x770B;&#x4E0D;&#x5230;&#x6211;&#x7684;&#x8BC4;&#x8BBA;&#xFF1F;
     date: 2017-07-24T03:10:28.399Z
+  - author:
+      type: full
+      displayName: biezhi
+      url: 'https://github.com/biezhi'
+      picture: 'https://avatars1.githubusercontent.com/u/3849072?v=4&s=73'
+    content: wow
+    date: 2017-08-17T08:26:32.321Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
