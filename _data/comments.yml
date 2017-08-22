@@ -829,6 +829,13 @@
       picture: 'https://avatars1.githubusercontent.com/u/3849072?v=4&s=73'
     content: wow
     date: 2017-08-17T08:26:32.321Z
+  - author:
+      type: full
+      displayName: tcitry
+      url: 'https://github.com/tcitry'
+      picture: 'https://avatars2.githubusercontent.com/u/5220740?v=4&s=73'
+    content: 'wow another git commnet '
+    date: 2017-08-22T03:45:06.304Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
