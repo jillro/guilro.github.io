@@ -899,6 +899,13 @@
       picture: 'https://avatars0.githubusercontent.com/u/4530539?v=4&s=73'
     content: Thank you for the great work!
     date: 2017-08-07T08:01:16.876Z
+  - author:
+      type: full
+      displayName: CrazyWr
+      url: 'https://github.com/CrazyWr'
+      picture: 'https://avatars2.githubusercontent.com/u/19635808?v=4&s=73'
+    content: that&apos;s a cool thing
+    date: 2017-09-14T07:21:13.810Z
 /2014/01/31/race-conditions-on-single-thread:
   - author:
       type: full
