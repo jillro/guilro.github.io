@@ -921,3 +921,11 @@
       picture: 'https://avatars3.githubusercontent.com/u/20106775?v=3&s=73'
     content: test
     date: 2017-03-23T06:27:37.596Z
+/2016/05/26/lastcomm.it:
+  - author:
+      type: github
+      displayName: guilro
+      url: 'https://github.com/guilro'
+      picture: 'https://avatars0.githubusercontent.com/u/301998?v=4&s=73'
+    content: Test
+    date: 2017-10-16T09:54:33.547Z
