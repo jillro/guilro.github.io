@@ -836,6 +836,13 @@
       picture: 'https://avatars2.githubusercontent.com/u/5220740?v=4&s=73'
     content: 'wow another git commnet '
     date: 2017-08-22T03:45:06.304Z
+  - author:
+      type: github
+      displayName: akshar314
+      url: 'https://github.com/akshar314'
+      picture: 'https://avatars0.githubusercontent.com/u/12473863?v=4&s=73'
+    content: foobar
+    date: 2017-11-16T08:02:56.856Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
