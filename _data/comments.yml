@@ -843,6 +843,13 @@
       picture: 'https://avatars0.githubusercontent.com/u/12473863?v=4&s=73'
     content: foobar
     date: 2017-11-16T08:02:56.856Z
+  - author:
+      type: full
+      displayName: liminany
+      url: 'https://github.com/liminany'
+      picture: 'https://avatars1.githubusercontent.com/u/4208263?v=4&s=73'
+    content: '66'
+    date: 2017-12-14T06:41:03.598Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
