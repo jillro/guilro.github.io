@@ -850,6 +850,13 @@
       picture: 'https://avatars1.githubusercontent.com/u/4208263?v=4&s=73'
     content: '66'
     date: 2017-12-14T06:41:03.598Z
+  - author:
+      type: full
+      displayName: fank243
+      url: 'https://github.com/fank243'
+      picture: 'https://avatars3.githubusercontent.com/u/5672377?v=4&s=73'
+    content: test test test
+    date: 2018-01-05T13:01:42.331Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
