@@ -857,6 +857,13 @@
       picture: 'https://avatars3.githubusercontent.com/u/5672377?v=4&s=73'
     content: test test test
     date: 2018-01-05T13:01:42.331Z
+  - author:
+      type: full
+      displayName: oiahoon
+      url: 'https://github.com/oiahoon'
+      picture: 'https://avatars3.githubusercontent.com/u/4361724?v=4&s=73'
+    content: what a cool tool
+    date: 2018-03-30T01:56:23.724Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
