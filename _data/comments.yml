@@ -864,6 +864,13 @@
       picture: 'https://avatars3.githubusercontent.com/u/4361724?v=4&s=73'
     content: what a cool tool
     date: 2018-03-30T01:56:23.724Z
+  - author:
+      type: full
+      displayName: zouchao
+      url: 'https://github.com/zouchao'
+      picture: 'https://avatars0.githubusercontent.com/u/1620223?v=4&s=73'
+    content: '&#x6CA1;&#x6709;&#x5206;&#x9875;&#x4E48;&#xFF1F;'
+    date: 2018-03-30T01:56:30.801Z
 /2015/10/27/open-sourcing-commentit.io:
   - author:
       type: github
