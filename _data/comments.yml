@@ -941,6 +941,13 @@
       picture: 'https://avatars2.githubusercontent.com/u/19635808?v=4&s=73'
     content: that&apos;s a cool thing
     date: 2017-09-14T07:21:13.810Z
+  - author:
+      type: github
+      displayName: pozitron57
+      url: 'https://github.com/pozitron57'
+      picture: 'https://avatars2.githubusercontent.com/u/9392655?v=4&s=73'
+    content: Is it possible to implement anonymous comments?
+    date: 2018-07-27T20:47:06.310Z
 /2014/01/31/race-conditions-on-single-thread:
   - author:
       type: full
